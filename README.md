@@ -4,7 +4,7 @@ Tech Bro Z YouTube Short: simple travel agency website, phir LIVE redesign (sky 
 
 🌐 Live website: https://nm621532-byte.github.io/travel-website-techbroz/
 💻 Editor mein chala ke dekho: https://techbroz-code.sites.tab.bot/
-▶️ YouTube video: link soon
+▶️ YouTube video: https://www.youtube.com/shorts/cdR-b9PwhiM
 
 ## Files
 - `index.html` — heading, bookings count, packages box
