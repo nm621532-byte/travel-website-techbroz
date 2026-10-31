@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  background: #e0f2fe;
+  color: #0c4a6e;
+  padding: 12px;
+}
+h1 { margin: 0; color: #0284c7; font-family: Georgia; }
+#trips {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr 1fr;
+}
+.card {
+  border: none;
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 4px 14px #7dd3fc;
+  padding: 8px;
+  text-align: center;
+}
+.card span { font-size: 36px; }
+.card p { margin: 4px 0; }
+button {
+  width: 100%;
+  padding: 6px;
+  background: #f97316;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+}
